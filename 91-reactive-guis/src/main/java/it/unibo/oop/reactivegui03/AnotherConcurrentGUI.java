@@ -120,6 +120,7 @@ public final class AnotherConcurrentGUI extends JFrame {
             this.up = true;
         }
 
+        //method
         public void downCounting() {
             this.up = false;
         }
